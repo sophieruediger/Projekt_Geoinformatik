@@ -1,0 +1,17 @@
+asgiref
+branca
+certifi
+charset-normalizer
+Django
+folium
+idna
+Jinja2
+MarkupSafe
+numpy
+psycopg2
+requests
+sqlparse
+tzdata
+urllib3
+django-environ
+gunicorn
